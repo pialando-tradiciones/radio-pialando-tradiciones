@@ -1,0 +1,6 @@
+/radio/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+/admin/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+/api/*
+  Cache-Control: no-store

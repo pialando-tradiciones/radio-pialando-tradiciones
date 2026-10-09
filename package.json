@@ -1,0 +1,13 @@
+{
+  "name": "pialando-tradiciones-cloudflare-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-icons.mjs",
+    "hash-pin": "node scripts/hash-pin.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
